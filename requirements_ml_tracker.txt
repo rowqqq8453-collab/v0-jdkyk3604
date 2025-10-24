@@ -1,0 +1,23 @@
+# ML Training Tracker Requirements
+# Core dependencies
+numpy>=1.19.0
+pandas>=1.3.0
+matplotlib>=3.3.0
+seaborn>=0.11.0
+
+# Optional ML framework dependencies (uncomment as needed)
+# torch>=1.9.0
+tensorflow>=2.6.0
+
+# Optional logging and monitoring
+tensorboard>=2.7.0
+# wandb>=0.12.0
+
+# Development and testing
+pytest>=6.0.0
+jupyter>=1.0.0
+notebook>=6.4.0
+
+# Additional utilities
+scikit-learn>=1.0.0
+plotly>=5.0.0
